@@ -1,0 +1,9 @@
+{
+  "short_name": "Lloyd Clowes",
+	"name": "Lloyd Clowes",
+	"description": "Lloyd Clowes' personal website",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

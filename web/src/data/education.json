@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Imperial College London",
+		"degree": "MEng Computing",
+		"image": "imperial.jpg",
+		"dateFrom": "2017",
+		"dateTo": "2021",
+		"subsections": [
+			{
+				"title": "Societies",
+				"body": "Machine Learning Society, Department of Computing Society, Triathlon"
+			},
+			{
+				"title": "Notable Modules",
+				"body": "Graphs and Algorithms, Network and Web Security, Databases, Software Engineering Design, Introduction to Machine Learning, Operating Systems, Discrete Mathematics, Probability and Statistics, Computer Vision"
+			}
+		]
+	}
+]

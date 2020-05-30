@@ -1,0 +1,45 @@
+[
+	{
+		"company": "Amazon",
+		"image": "amazon.png",
+		"role": "Software Development Engineer Intern",
+		"dateFrom": "Apr 2020",
+		"dateTo": "Sep 2020",
+		"description": "@ Prime Video"
+	},
+	{
+		"company": "Ernst & Young (EY)",
+		"image": "ey.svg",
+		"role": "Software Developer",
+		"dateFrom": "Sep 2019",
+		"dateTo": "Jun 2020",
+		"description": "Worked in a new, innovative team within Tax Technology and Transformation (TTT), taking advantage of scrum software development methodology for effective team collaboration.",
+		"bulletPoints": [
+			"Implemented new features for their website in Angular, closely working with designers and business analysts to fully understand the requirements",
+			"Improved the team’s cloud-hosted pipeline build process, leading to a 80% reduction in the pipeline run time"
+		]
+	},
+	{
+		"company": "Lloyds Banking Group",
+		"image": "lloyds-bank.svg",
+		"role": "Business Design & Roadmap Delivery",
+		"dateFrom": "Jun 2019",
+		"dateTo": "Aug 2019",
+		"description": "Worked on designing new, innovative features to users through its mobile application.",
+		"bulletPoints": [
+			"Worked with Product Owners (POs) to test a series of hypotheses relating to a three-month public A/B trial",
+			"Developed an R script that processed tens of thousands of data points from the trial to verify whether or not the hypotheses were true. The results allowed the POs to gain a deeper understanding of the problem at hand and see how users would realistically use the feature."
+		]
+	},
+	{
+		"company": "Wluper",
+		"image": "wluper.png",
+		"role": "Software Engineer Intern",
+		"dateFrom": "Jul 2018",
+		"dateTo": "Sep 2018",
+		"bulletPoints": [
+			"Carried out research on the semantic parsing of sentences for the use of question answering (i.e. mapping raw natural language to a logical and unambiguous representation of the language)",
+			"Read papers on state-of-the-art machine learning methods and produced a method using TensorFlow that took inspiration from some of these papers."
+		]
+	}
+]
